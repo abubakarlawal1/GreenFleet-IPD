@@ -40,3 +40,6 @@ Open a terminal in the **backend** folder:
 cd frontend
 npm install
 
+The username and password for the Admin are
+admin
+admin123

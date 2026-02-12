@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GreenFleet-IPD/static/css/main.46679794.css",
+    "main.js": "/GreenFleet-IPD/static/js/main.b99a42b7.js",
+    "index.html": "/GreenFleet-IPD/index.html",
+    "main.46679794.css.map": "/GreenFleet-IPD/static/css/main.46679794.css.map",
+    "main.b99a42b7.js.map": "/GreenFleet-IPD/static/js/main.b99a42b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46679794.css",
+    "static/js/main.b99a42b7.js"
+  ]
+}

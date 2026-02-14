@@ -36,7 +36,7 @@ cd backend
 node server.js
 
 ### 3) Frontend Setup
-Open a terminal in the **backend** folder:
+Open a terminal in the **frontend** folder:
 cd frontend
 npm install
 
